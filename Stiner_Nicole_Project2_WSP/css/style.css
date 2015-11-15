@@ -1,0 +1,112 @@
+/* NICOLE STINER
+PROJECT 2 STYLESHEET
+11/08/15 */
+/* ----------- MAIN STYLES ---------- */
+body {
+    background-color: #16ffae;
+}
+
+div {
+    border: 1px solid #000000;
+    padding: 5px;
+    margin: 10px;
+    float: left;
+    clear: both;
+    background-color: lavender;
+}
+
+div #intro {
+    float: right;
+    clear: both;
+}
+/* ---------- HEADING STYLES --------- */
+h2 {
+    font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #1347ff;
+}
+
+h3 {
+    font-family: 'Arial Narrow', sans-serif;
+    color: #5994ff;
+}
+
+/* ---------- NAVIGATION STYLES --------- */
+nav {
+    margin-top:15px
+    list-style:none;
+    position:relative;
+    float: right;
+    padding:0
+}
+
+nav ul a {
+    display:block;
+    color:#333;
+    text-decoration:none;
+    list-style: none;
+    font-weight:700;
+    font-size: 20px;
+    line-height:32px;
+    padding:0 15px;
+    font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+nav ul li {
+    position:relative;
+    float:left;
+    list-style: none;
+    margin:0;
+    padding:0
+}
+
+nav ul li.current-menu-item {
+    background:#ddd
+}
+
+nav ul li:hover {
+    background:#f6f6f6
+}
+
+nav ul ul {
+    display:none;
+    position:absolute;
+    top:100%;
+    left:0;
+    background:#fff;
+    padding:0
+}
+
+nav ul ul li {
+    float:none;
+    width:200px
+}
+
+nav ul ul a {
+    line-height:120%;
+    padding:10px 15px
+}
+
+nav ul ul ul {
+    top:0;
+    left:100%
+}
+
+nav ul li:hover > ul {
+    display:block
+}
+
+/* ---------- BUTTON STYLES --------- */
+button {
+    padding:5px;
+    background-color: #ff830a;
+    border: 1px solid #666;
+    color:#000;
+    text-decoration:none;
+    border-radius: 5px;
+    width: 200px;
+    height: 50px;
+}
+
+button:hover {
+    background-color: #ffc62a;
+}

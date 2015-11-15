@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Drop Down Menu</title>
+    <style>
+        body {
+            margin: 10px;
+            background-color: dodgerblue;
+        }
+        nav {
+            margin-top:15px
+            list-style:none;
+            position:relative;
+            float: right;
+            padding:0
+        }
+
+        nav ul a {
+            display:block;
+            color:#333;
+            text-decoration:none;
+            list-style: none;
+            font-weight:700;
+            font-size:12px;
+            line-height:32px;
+            padding:0 15px;
+            font-family:"HelveticaNeue","Helvetica Neue",Helvetica,Arial,sans-serif
+        }
+
+        nav ul li {
+            position:relative;
+            float:left;
+            list-style: none;
+            margin:0;
+            padding:0
+        }
+
+        nav ul li.current-menu-item {
+            background:#ddd
+        }
+
+        nav ul li:hover {
+            background:#f6f6f6
+        }
+
+        nav ul ul {
+            display:none;
+            position:absolute;
+            top:100%;
+            left:0;
+            background:#fff;
+            padding:0
+        }
+
+        nav ul ul li {
+            float:none;
+            width:200px
+        }
+
+        nav ul ul a {
+            line-height:120%;
+            padding:10px 15px
+        }
+
+        nav ul ul ul {
+            top:0;
+            left:100%
+        }
+
+        nav ul li:hover > ul {
+            display:block
+        }
+    </style>
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li class="current-menu-item"><a href="#">Home</a></li>
+        <li><a href="http://www.example.com">Menu 1</a>
+            <ul>
+                <li><a href="http://www.example.com">Sub Menu 1</a></li>
+                <li><a href="http://www.example.com">Sub Menu 2</a></li>
+                <li><a href="http://www.example.com">Sub Menu 3</a></li>
+                <li><a href="http://www.example.com">Sub Menu 4 ></a>
+                    <ul>
+                        <li><a href="http://www.example.com">Deep Menu 1 ></a>
+                            <ul>
+                                <li><a href="http://www.example.com">Sub Deep 1</a></li>
+                                <li><a href="http://www.example.com">Sub Deep 2</a></li>
+                                <li><a href="http://www.example.com">Sub Deep 3</a></li>
+                                <li><a href="http://www.example.com">Sub Deep 4</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="http://www.example.com">Deep Menu 2</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://www.example.com">Sub Menu 5</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.example.com">Menu 2</a>
+            <ul>
+                <li><a href="http://www.example.com">Sub Menu 1</a></li>
+                <li><a href="http://www.example.com">Sub Menu 2</a></li>
+                <li><a href="http://www.example.com">Sub Menu 3</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.example.com">Menu 3</a>
+            <ul>
+                <li class="dir"><a href="http://www.example.com">Sub Menu 1</a></li>
+                <li class="dir"><a href="http://www.example.com">Sub Menu 2 ></a>
+                    <ul>
+                        <li><a href="http://www.example.com">Category 1</a></li>
+                        <li><a href="http://www.example.com">Category 2</a></li>
+                        <li><a href="http://www.example.com">Category 3</a></li>
+                        <li><a href="http://www.example.com">Category 4</a></li>
+                        <li><a href="http://www.example.com">Category 5</a></li>
+                    </ul>
+                </li>
+                <li><a href="http://www.example.com">Sub Menu 3</a></li>
+                <li><a href="http://www.example.com">Sub Menu 4</a></li>
+                <li><a href="http://www.example.com">Sub Menu 5</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.example.com">Menu 4</a>
+            <ul>
+                <li><a href="http://www.example.com">Sub Menu 1</a></li>
+                <li><a href="http://www.example.com">Sub Menu 2</a></li>
+                <li><a href="http://www.example.com">Sub Menu 3</a></li>
+            </ul>
+        </li>
+
+        <li><a href="http://www.example.com">Menu 5</a></li>
+        <li><a href="http://www.example.com">Menu 6</a>
+            <ul>
+                <li><a href="http://www.example.com">Sub Menu 1</a></li>
+                <li><a href="http://www.example.com">Sub Menu 2</a></li>
+            </ul>
+        </li>
+        <li><a href="http://www.example.com">Contact Us</a></li>
+    </ul>
+</nav>
+
+
+</body>
+</html>
