@@ -2,44 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea184f9-29ca-4416-a7a8-b12017c1d877" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/.idea/project.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/accordion.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/dropdown.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/floating.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/image.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/accordion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/dropdown.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/floating1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/floating2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/imageGallery.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/multiColumnFooter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature12.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature14.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature15.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature16.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature17.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature18.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/img/nature9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../project/multicolumn.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../project/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
     </list>
     <ignored path="project.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,17 +31,27 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2580">
+            <state vertical-scroll-proportion="41.875" vertical-offset="1185" max-vertical-offset="2580">
               <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.8391421" vertical-offset="1024" max-vertical-offset="1800">
+              <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="accordion.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/accordion.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.50138503" vertical-offset="223" max-vertical-offset="3375">
+            <state vertical-scroll-proportion="-15.083333" vertical-offset="223" max-vertical-offset="3375">
               <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
@@ -86,18 +61,18 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dropdown.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/floating.html" />
         <option value="$PROJECT_DIR$/multicolumn.html" />
         <option value="$PROJECT_DIR$/image.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/accordion.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -133,7 +108,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,13 +126,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stiner_Nicole_Project2_WSP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../demo" />
+    <property name="last_opened_file_path" value="$USER_HOME$/demo" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
@@ -167,10 +156,14 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
       <method />
     </configuration>
-    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -178,10 +171,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -264,6 +253,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2580">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accordion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3375">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2580">
@@ -362,25 +367,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/accordion.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4743083" vertical-offset="0" max-vertical-offset="1770">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state vertical-scroll-proportion="-15.083333" vertical-offset="223" max-vertical-offset="3375">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="2580">
+        <state vertical-scroll-proportion="41.875" vertical-offset="1185" max-vertical-offset="2580">
           <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/accordion.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.50138503" vertical-offset="223" max-vertical-offset="3375">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8391421" vertical-offset="1024" max-vertical-offset="1800">
+          <caret line="110" column="0" selection-start-line="110" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
           <folding />
         </state>
       </provider>
